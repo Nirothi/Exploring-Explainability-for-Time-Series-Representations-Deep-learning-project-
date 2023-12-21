@@ -14,7 +14,7 @@ Welcome to the repository for the 02456 Deep Learning 2023 project titled "Explo
 
 The repository includes a Jupyter Notebook containing the code and analyses for our deep learning experiments. This notebook covers the various aspects of the project, including RELAX method and explainability techniques.
 
-- [Notebook: VGGish explain](notebook/VGGish_relax.ipynb)
+- [Notebook: VGGish explain](vggish_relax.ipynb)
 
 ### 2. Poster
 
