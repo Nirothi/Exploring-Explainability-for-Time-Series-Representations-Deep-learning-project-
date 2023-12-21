@@ -10,7 +10,7 @@ Welcome to the repository for the 02456 Deep Learning 2023 project titled "Explo
 
 ## Project Components
 
-### 1. Jupyter Notebooks
+### 1. Jupyter Notebook
 
 The repository includes a Jupyter Notebook containing the code and analyses for our deep learning experiments. This notebook covers the various aspects of the project, including RELAX method and explainability techniques.
 
@@ -21,6 +21,10 @@ The repository includes a Jupyter Notebook containing the code and analyses for 
 The project poster can be found in the "posters" directory.
 
 - [Project Poster](posters/explainability_poster.pdf)
+
+### 3. Project Report
+
+- [Project report](explainability_report.pdf)
 
 ## Reference Paper
 
